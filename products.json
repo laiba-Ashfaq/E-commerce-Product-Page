@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Beig Dress",
+        "price": 200,
+        "image": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Black Dress",
+        "price": 250,
+        "image": "2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Navy blue Dress",
+        "price": 290,
+        "image": "3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"off-white Dress",
+        "price": 200,
+        "image": "4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Baby-pink Dress",
+        "price": 300,
+        "image": "5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"sage Dress",
+        "price": 200,
+        "image": "6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Sky-blue Dress",
+        "price": 200,
+        "image": "7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Brown CHAIR",
+        "price": 200,
+        "image": "8.jpg"
+    }
+
+]
